@@ -5,7 +5,7 @@ The project analyzes **3,900 customer purchases** across different product categ
 
 # 📊 Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](customer_behavior_dashboard.png)
+![Customer Shopping Behavior Dashboard](Customer_behavior_dashboard.png)
 
 ---
 
